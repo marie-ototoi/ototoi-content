@@ -1,0 +1,8 @@
+{
+  "title": "Player Conférences",
+  "customer": "Cité de la Musique",
+  "date": [2012, 2015],
+  "tags": ["player", "design", "front-end", "back-end"],
+  "url": "www.citedelamusiquelive.tv",
+  "description": "Je développe des players pour les concerts de la Cité depuis 2009. Olivier Koechlin me contacte d'abord pour la version flash du player qu'il a designé pour le précédent site de la Cité. Puis nous réalisons un lecteur de partition synchronisé avec le player. Ensuite Rodolphe Bailly de la Cité me commande la version html5 du player vidéo destiné au site dédié Cité de la Musique Live. L'année suivante, n'ayant pas trouvé de prestataire lui convenant, il me demande si je veux bien apprendre à développer les applications iPad et iPhone. C'est une bonne occasion, je me lance. "
+}
